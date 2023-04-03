@@ -7,4 +7,3 @@ public
 .env
 *.log
 gatsby-node.old.js
-yarn.lock
